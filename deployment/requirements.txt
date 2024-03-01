@@ -1,0 +1,10 @@
+seaborn
+pandas
+matplotlib
+pickleshare
+plotly
+tensorflow == 2.14.0
+nltk
+numpy
+joblib
+plotly

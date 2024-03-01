@@ -1,0 +1,8 @@
+Link Hugging Face:
+https://huggingface.co/spaces/OgiHadicahyo/Sentiment_Prediction
+
+Link Dataset:
+https://www.kaggle.com/datasets/whenamancodes/play-store-apps/data
+
+Link Model:
+https://drive.google.com/drive/folders/1hZUZYeb7OajcEugUTkU-gcJiAPwhzRdP?usp=sharing
